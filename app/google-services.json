@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "897088922692",
+    "firebase_url": "https://newdb-f8130-default-rtdb.firebaseio.com",
+    "project_id": "newdb-f8130",
+    "storage_bucket": "newdb-f8130.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897088922692:android:54d6475d682a636ebb0811",
+        "android_client_info": {
+          "package_name": "com.example.kotlintodopractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897088922692-0mrl7vpgb1fivpf952u092ii2r2d3824.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs49LKGIf6QQDexFstdGLFxrX32W8zmSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897088922692-0mrl7vpgb1fivpf952u092ii2r2d3824.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
